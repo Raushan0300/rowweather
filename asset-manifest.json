@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rowweather/static/css/main.0846e534.css",
+    "main.js": "/rowweather/static/js/main.67f02cbd.js",
+    "static/js/787.d2a9eea6.chunk.js": "/rowweather/static/js/787.d2a9eea6.chunk.js",
+    "static/media/cloud.png": "/rowweather/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/rowweather/index.html",
+    "main.0846e534.css.map": "/rowweather/static/css/main.0846e534.css.map",
+    "main.67f02cbd.js.map": "/rowweather/static/js/main.67f02cbd.js.map",
+    "787.d2a9eea6.chunk.js.map": "/rowweather/static/js/787.d2a9eea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0846e534.css",
+    "static/js/main.67f02cbd.js"
+  ]
+}
